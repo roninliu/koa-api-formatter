@@ -1,0 +1,19 @@
+{
+  "name": "koa-api-formatter",
+  "version": "1.0.0",
+  "description": "koa api format,for return json format,change your api json data ,warp data for other use api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "api",
+    "format",
+    "koa-api-format",
+    "formatter",
+    "koa2"
+  ],
+  "author": "",
+  "license": "ISC"
+}
